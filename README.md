@@ -1,0 +1,1 @@
+The purpose of cc-5 is to create a JavaScript program to manage employee salaries and extend functions for specialized salary calculations for managers, including a 15% bonus.
